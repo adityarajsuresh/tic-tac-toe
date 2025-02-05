@@ -1,3 +1,5 @@
+# Code to run CoBot with Tic Tac Toe Game.
+
 import cv2
 from ultralytics import YOLO
 from PIL import Image
